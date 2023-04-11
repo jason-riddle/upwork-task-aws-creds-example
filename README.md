@@ -1,0 +1,1 @@
+# Upwork Task - AWS credentials
